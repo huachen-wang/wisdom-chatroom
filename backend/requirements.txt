@@ -1,0 +1,15 @@
+# --- Core Web Framework ---
+Flask==3.0.3
+Flask-Cors==4.0.1
+
+# --- Database Connector ---
+mysql-connector-python==9.0.0
+
+# --- OpenAI SDK (Official, with GPT-5 support) ---
+openai>=1.40.0
+
+# --- Environment Utilities ---
+python-dotenv==1.0.1
+
+# --- Optional (for JSON, UUID, stream utils) ---
+requests==2.32.3
