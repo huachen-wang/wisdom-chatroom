@@ -85,3 +85,7 @@ Unlike conventional single-chat systems, this chatroom allows mentors to respond
   <img src="img/img_6.png" alt="Screenshot 5" width="30%">
   <img src="img/img_7.png" alt="Screenshot 6" width="30%">
 </p>
+
+### ⚖️ Disclaimer:
+The mentors represented in this system are AI-generated role models inspired by public figures, not real individuals.
+All dialogues are fictional and created solely for educational purposes.
